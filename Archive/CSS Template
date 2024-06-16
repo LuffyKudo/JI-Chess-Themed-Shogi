@@ -1,0 +1,287 @@
+
+piece.pawn.sente,
+      .cg-wrap.orientation-sente piece.pawn.sente,
+      .cg-wrap.orientation-gote piece.pawn.sente,
+      .spare-top piece.pawn.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.pawn,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.pawn {
+  background-image: url("");
+}
+
+piece.pawn.gote,
+      .cg-wrap.orientation-sente piece.pawn.gote,
+      .cg-wrap.orientation-gote piece.pawn.gote,
+      .pocket-bottom piece.pawn.gote,
+      .e-pocket-bottom piece.pawn.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.pawn,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.pawn {
+  background-image: url("");
+}
+
+piece.lance.sente,
+      .cg-wrap.orientation-sente piece.lance.sente,
+      .cg-wrap.orientation-gote piece.lance.sente,
+      .spare-top piece.lance.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.lance,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.lance {
+  background-image: url("");
+}
+
+piece.lance.gote,
+      .cg-wrap.orientation-sente piece.lance.gote,
+      .cg-wrap.orientation-gote piece.lance.gote,
+      .pocket-bottom piece.lance.gote,
+      .e-pocket-bottom piece.lance.gote,
+      .spare-bottom piece.lance.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.lance,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.lance {
+  background-image: url("");
+}
+
+piece.knight.sente,
+      .cg-wrap.orientation-sente piece.knight.sente,
+      .cg-wrap.orientation-gote piece.knight.sente,
+      .spare-top piece.knight.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.knight,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.knight {
+  background-image: url("");
+}
+
+piece.knight.gote,
+      .cg-wrap.orientation-sente piece.knight.gote,
+      .cg-wrap.orientation-gote piece.knight.gote,
+      .pocket-bottom piece.knight.gote,
+      .e-pocket-bottom piece.knight.gote,
+      .spare-bottom piece.knight.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.knight,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.knight {
+  background-image: url("");
+}
+
+piece.silver.sente,
+      .cg-wrap.orientation-sente piece.silver.sente,
+      .cg-wrap.orientation-gote piece.silver.sente,
+      .spare-top piece.silver.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.silver,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.silver {
+  background-image: url("");
+}
+
+piece.silver.gote,
+      .cg-wrap.orientation-sente piece.silver.gote,
+      .cg-wrap.orientation-gote piece.silver.gote,
+      .pocket-bottom piece.silver.gote,
+      .e-pocket-bottom piece.silver.gote,
+      .spare-bottom piece.silver.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.silver,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.silver {
+  background-image: url("");
+}
+
+piece.gold.sente,
+      .cg-wrap.orientation-sente piece.gold.sente,
+      .cg-wrap.orientation-gote piece.gold.sente,
+      .spare-top piece.gold.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.gold,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.gold {
+  background-image: url("");
+}
+
+piece.gold.gote,
+      .cg-wrap.orientation-sente piece.gold.gote,
+      .cg-wrap.orientation-gote piece.gold.gote,
+      .pocket-bottom piece.gold.gote,
+      .e-pocket-bottom piece.gold.gote,
+      .spare-bottom piece.gold.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.gold,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.gold {
+  background-image: url("");
+}
+
+piece.bishop.sente,
+      .cg-wrap.orientation-sente piece.bishop.sente,
+      .cg-wrap.orientation-gote piece.bishop.sente,
+      .spare-top piece.bishop.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.bishop,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.bishop {
+  background-image: url("");
+}
+
+piece.bishop.gote,
+      .cg-wrap.orientation-sente piece.bishop.gote,
+      .cg-wrap.orientation-gote piece.bishop.gote,
+      .pocket-bottom piece.bishop.gote,
+      .e-pocket-bottom piece.bishop.gote,
+      .spare-bottom piece.bishop.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.bishop,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.bishop {
+  background-image: url("");
+}
+
+piece.rook.sente,
+      .cg-wrap.orientation-sente piece.rook.sente,
+      .cg-wrap.orientation-gote piece.rook.sente,
+      .spare-top piece.rook.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.rook,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.rook {
+  background-image: url("");
+}
+
+piece.rook.gote,
+      .cg-wrap.orientation-sente piece.rook.gote,
+      .cg-wrap.orientation-gote piece.rook.gote,
+      .pocket-bottom piece.rook.gote,
+      .e-pocket-bottom piece.rook.gote,
+      .spare-bottom piece.rook.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.rook,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.rook {
+  background-image: url("");
+}
+
+piece.king.sente,
+      .cg-wrap.orientation-sente piece.king.sente,
+      .cg-wrap.orientation-gote piece.king.sente,
+      .spare-top piece.king.sente {
+  background-image: url("");
+}
+
+piece.king.gote,
+      .cg-wrap.orientation-sente piece.king.gote,
+      .cg-wrap.orientation-gote piece.king.gote,
+      .e-pocket-bottom piece.king.gote,
+      .spare-bottom piece.king.gote {
+  background-image: url("");
+}
+
+piece.tokin.sente,
+      .cg-wrap.orientation-sente piece.tokin.sente,
+      .cg-wrap.orientation-gote piece.tokin.sente,
+      .spare-top piece.tokin.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.tokin,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.tokin {
+  background-image: url("");
+}
+
+piece.tokin.gote,
+      .cg-wrap.orientation-sente piece.tokin.gote,
+      .cg-wrap.orientation-gote piece.tokin.gote,
+      .spare-bottom piece.tokin.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.tokin,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.tokin  {
+  background-image: url("");
+}
+
+piece.promotedlance.sente,
+      .cg-wrap.orientation-sente piece.promotedlance.sente,
+      .cg-wrap.orientation-gote piece.promotedlance.sente,
+      .spare-top piece.promotedlance.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.promotedlance,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.promotedlance {
+  background-image: url("");
+}
+
+piece.promotedlance.gote,
+      .cg-wrap.orientation-sente piece.promotedlance.gote,
+      .cg-wrap.orientation-gote piece.promotedlance.gote,
+      .spare-bottom piece.promotedlance.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.promotedlance,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.promotedlance {
+  background-image: url("");
+}
+
+piece.promotedknight.sente,
+      .cg-wrap.orientation-sente piece.promotedknight.sente,
+      .cg-wrap.orientation-gote piece.promotedknight.sente,
+      .spare-top piece.promotedknight.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.promotedknight,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.promotedknight {
+  background-image: url("");
+}
+
+piece.promotedknight.gote,
+      .cg-wrap.orientation-sente piece.promotedknight.gote,
+      .cg-wrap.orientation-gote piece.promotedknight.gote,
+      .spare-bottom piece.promotedknight.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.promotedknight,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.promotedknight {
+  background-image: url("");
+}
+
+piece.promotedsilver.sente,
+      .cg-wrap.orientation-sente piece.promotedsilver.sente,
+      .cg-wrap.orientation-gote piece.promotedsilver.sente,
+      .spare-top piece.promotedsilver.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.promotedsilver,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.promotedsilver {
+  background-image: url("");
+}
+
+piece.promotedsilver.gote,
+      .cg-wrap.orientation-sente piece.promotedsilver.gote,
+      .cg-wrap.orientation-gote piece.promotedsilver.gote,
+      .spare-bottom piece.promotedsilver.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.promotedsilver,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.promotedsilver {
+  background-image: url("");
+}
+
+piece.horse.sente,
+      .cg-wrap.orientation-sente piece.horse.sente,
+      .cg-wrap.orientation-gote piece.horse.sente,
+      .spare-top piece.horse.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.horse,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.horse {
+  background-image: url("");
+}
+
+piece.horse.gote,
+      .cg-wrap.orientation-sente piece.horse.gote,
+      .cg-wrap.orientation-gote piece.horse.gote,
+      .spare-bottom piece.horse.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.horse,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.horse {
+  background-image: url("");
+}
+
+piece.dragon.sente,
+      .cg-wrap.orientation-sente piece.dragon.sente,
+      .cg-wrap.orientation-gote piece.dragon.sente,
+      .spare-top piece.dragon.sente,
+      .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.dragon,
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.dragon {
+  background-image: url("");
+}
+
+piece.dragon.gote,
+      .cg-wrap.orientation-sente piece.dragon.gote,
+      .cg-wrap.orientation-gote piece.dragon.gote,
+      .spare-bottom piece.dragon.gote,
+      .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.dragon,
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.dragon {
+  background-image: url("");
+}
+
+.solid-orange .is2d cg-board, #top div.color_demo.solid-orange,
+.solid-natural .is2d cg-board, #top div.color_demo.solid-natural,
+.wood1 .is2d cg-board, #top div.color_demo.wood1,
+.kaya1 .is2d cg-board, #top div.color_demo.kaya1,
+.kaya2 .is2d cg-board, #top div.color_demo.kaya2,
+.kaya-light .is2d cg-board, #top div.color_demo.kaya-light,
+.oak .is2d cg-board, #top div.color_demo.oak,
+.solid-brown1 .is2d cg-board, #top div.color_demo.solid-brown1,
+.solid-wood1 .is2d cg-board, #top div.color_demo.solid-wood1,
+.blue .is2d cg-board, #top div.color_demo.blue,
+.dark-blue .is2d cg-board, #top div.color_demo.drak-blue,
+.gray .is2d cg-board, #top div.color_demo.gray,
+.Painting1 .is2d cg-board, #top div.color_demo.Painting1,
+.Painting2 .is2d cg-board, #top div.color_demo.Painting2,
+.Kinkaku .is2d cg-board, #top div.color_demo.Kinkaku,
+.space1 .is2d cg-board, #top div.color_demo.space1,
+.space2 .is2d cg-board, #top div.color_demo.space2,
+.whiteBoard .is2d cg-board, #top div.color_demo.whiteBoard,
+.darkBoard .is2d cg-board, #top div.color_demo.darkBoard,
+.doubutsu .is2d cg-board, #top div.color_demo.doubutsu,
+.transparent .is2d cg-board, #top div.color_demo.transparent
+{
+  background-image: url("");
+}
