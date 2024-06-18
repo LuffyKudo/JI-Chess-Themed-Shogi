@@ -1,5 +1,4 @@
 @-moz-document domain("lishogi.org") {
-
 piece.pawn.sente,
       .cg-wrap.orientation-sente piece.pawn.sente,
       .cg-wrap.orientation-gote piece.pawn.sente,
@@ -262,11 +261,87 @@ piece.dragon.gote,
   background-image: url("")!important;
 }
 
+/* board */
 
-/*Board*/
+.orange sg-board,.orange dasher_app .piece .list,
+.natural sg-board,.natural dasher_app .piece .list,
+.wood sg-board,.wood #dasher_app .piece .list,
+.wood1 sg-board,.wood1 #dasher_app .piece .list,
+.kaya1 sg-board,.kaya1 #dasher_app .piece .list,
+.kaya2 sg-board,kaya2 #dasher_app .piece .list,
+.oak sg-board,.oak #dasher_app .piece .list,
+.painting1 sg-board,.painting1 #dasher_app .piece .list,
+.painting2 sg-board,.painting2 #dasher_app .piece .list,
+.kinkaku sg-board,.kinkaku #dasher_app .piece .list,
+.space sg-board,.space #dasher_app .piece .list,
+.doubutsu sg-board,.doubutsu #dasher_app .piece .list {
+    background-image: url("https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Board.png?raw=true")!important;
+}
 
-sg-pieces {
-  background-image: url("")!important;
-  background-size:contain;
+/* grid removal */
+
+.orange sg-squares,
+.natural sg-squares,
+.wood sg-squares,
+.wood1 sg-squares,
+.kaya1 sg-squares,
+.kaya2 sg-squares,
+.oak sg-squares,
+.painting1 sg-squares,
+.painting2 sg-squares,
+.kinkaku sg-squares,
+.space sg-squares,
+.doubutsu sg-squares {
+    border-top: none;
+    border-left: none
+}
+
+.orange sg-squares sq,
+.natural sg-squares sq,
+.wood sg-squares sq,
+.wood1 sg-squares sq,
+.kaya1 sg-squares sq,
+.kaya2 sg-squares sq,
+.oak sg-squares sq,
+.painting1 sg-squares sq,
+.painting2 sg-squares sq,
+.kinkaku sg-squares sq,
+.space sg-squares sq,
+.doubutsu sg-squares sq {
+    border-right: none;
+    border-bottom: none
+}
+
+/* star points removal */
+
+.orange sg-squares sq::after,
+.natural sg-squares sq::after,
+.wood sg-squares sq::after,
+.wood1 sg-squares sq::after,
+.kaya1 sg-squares sq::after,
+.kaya2 sg-squares sq::after,
+.oak sg-squares sq::after,
+.painting1 sg-squares sq::after,
+.painting2 sg-squares sq::after,
+.kinkaku sg-squares sq::after,
+.space sg-squares sq::after {
+    content: unset !important
+}
+
+/* blue and gray boards */
+
+.blue sg-board sq:nth-child(odd),
+.gray sg-board sq:nth-child(odd){
+    background: #ffce9e !important
+}
+
+.blue sg-board sq:nth-child(even),
+.gray sg-board sq:nth-child(even){
+    background: #d18b47 !important
+}
+
+.blue .d-9x9 sg-board sq:nth-child(-2n+26),.blue .d-9x9 sg-board sq:nth-child(2n+56),
+.gray .d-9x9 sg-board sq:nth-child(-2n+26),.gray .d-9x9 sg-board sq:nth-child(2n+56) {
+    background: #d18b47 !important
 }
 }
