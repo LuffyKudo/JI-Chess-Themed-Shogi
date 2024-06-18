@@ -278,7 +278,7 @@ piece.dragon.gote,
     background-image: url("https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Board.png?raw=true")!important;
 }
 
-/* grid removal */
+/* grid remover */
 
 .orange sg-squares,
 .natural sg-squares,
@@ -312,7 +312,7 @@ piece.dragon.gote,
     border-bottom: none
 }
 
-/* star points removal */
+/* star points remover */
 
 .orange sg-squares sq::after,
 .natural sg-squares sq::after,
