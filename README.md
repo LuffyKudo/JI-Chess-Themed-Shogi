@@ -13,4 +13,4 @@ Created in [Stylus browser extension](https://chromewebstore.google.com/detail/s
 
 ![JI Chess-Themed Shogi on Lishogi screenshot](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Lishogi%20Screenshot%201.jpg?raw=true)
 
-![JI Chess-Themed Shogi on Lishogi showing promoted pieces screenshot]([https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Lishogi%20Screenshot%202.jpg](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Lishogi%20Screenshot%202%20(with%20Promoted%20Pieces).jpg?raw=true)
+![JI Chess-Themed Shogi on Lishogi showing promoted pieces screenshot](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Lishogi%20Screenshot%202%20(with%20Promoted%20Pieces).jpg?raw=true)
