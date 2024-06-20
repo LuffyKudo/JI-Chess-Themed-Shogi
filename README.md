@@ -3,9 +3,9 @@
 [Shogi](https://en.wikipedia.org/wiki/Shogi) (Japanese Chess) is the Japanese cousin of western chess and now you can play shogi using chess pieces and board on Lishogi.
 
 - Board and pieces included
-- Works with puzzles, analysis and board editor too
+- Works with matches, puzzles, analysis and board editor too
 - Board works with all variants
-- Pieces do not work with Chu Shogi and Kyoto Shogi variants
+- Pieces works with all variants except with Chu Shogi and Kyoto Shogi
 
 You can read more about JI Chess-Themed Shogi including instructions on how to install it at [**JI Chess-Themed Shogi**](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/).
 
