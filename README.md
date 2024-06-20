@@ -12,5 +12,3 @@ You can read more about JI Chess-Themed Shogi including instructions on how to i
 Created in [Stylus browser extension](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) for [Lishogi.org](https://lishogi.org).
 
 ![JI Chess-Themed Shogi on Lishogi screenshot](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Lishogi%20Screenshot%201.jpg?raw=true)
-
-![JI Chess-Themed Shogi on Lishogi showing promoted pieces screenshot](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Lishogi%20Screenshot%202%20(with%20Promoted%20Pieces).jpg?raw=true)*with promoted pieces*
