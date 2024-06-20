@@ -11,4 +11,4 @@ You can read more about JI Chess-Themed Shogi including instructions on how to i
 
 ![JI Chess-Themed Shogi on Lishogi screenshot](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Lishogi%20Screenshot%201.jpg?raw=true)
 
-*Created in [Stylus browser extension](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) for [Lishogi.org](https://lishogi.org).*
+*Created using [Stylus browser extension](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) for [Lishogi.org](https://lishogi.org).*
