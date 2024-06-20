@@ -7,7 +7,7 @@ Shogi (Japanese Chess) is the Japanese cousin of western chess and now you can p
 - Board works with all variants
 - Pieces do not work with Chu Shogi and Kyoto Shogi
 
-Created in [Stylus browser extension](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) for [Lishogi.org](https://lishogi.org){:target="_blank" rel="noopener"}.
+Created in [Stylus browser extension](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) for [Lishogi.org](https://lishogi.org).
  
 You can read more about JI Chess-Themed Shogi including instructions on how to install it at [JI Chess-Themed Shogi](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/).
 
