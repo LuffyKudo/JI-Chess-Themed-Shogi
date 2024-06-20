@@ -12,4 +12,4 @@ Created in Stylus browser extension for Lishogi.org
 You can read more about JI Chess-Themed Shogi including how to install it at
 https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/
 
-(https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Lishogi%20Screenshot%201.jpg?raw=true)
+!(https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Lishogi%20Screenshot%201.jpg?raw=true)
