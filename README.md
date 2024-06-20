@@ -9,6 +9,6 @@ Shogi (Japanese Chess) is the Japanese cousin of western chess and now you can p
 
 Created in Stylus browser extension for Lishogi.org
  
-You can read more about JI Chess-Themed Shogi including how to install it at [JI Chess-Themed Shogi](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/)
+You can read more about JI Chess-Themed Shogi including how to install it at [JI Chess-Themed Shogi](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/).
 
 ![JI Chess-Themed Shogi on Lishogi screenshot](https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/blob/main/Lishogi%20Screenshot%201.jpg?raw=true)
