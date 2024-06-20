@@ -1,4 +1,4 @@
-**JI Chess-Themed Shogi (Westernized Shogi) on Lishogi**
+**JI Chess-Themed Shogi (Westernized Shogi)**
 
 [Shogi](https://en.wikipedia.org/wiki/Shogi) (Japanese Chess) is the Japanese cousin of western chess and now you can play shogi using chess pieces and board on Lishogi.
 
