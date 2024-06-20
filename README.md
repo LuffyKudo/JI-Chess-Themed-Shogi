@@ -5,7 +5,7 @@
 - Board and pieces included
 - Works with puzzles, analysis and board editor too
 - Board works with all variants
-- Pieces do not work with Chu Shogi and Kyoto Shogi
+- Pieces do not work with Chu Shogi and Kyoto Shogi variants
 
 You can read more about JI Chess-Themed Shogi including instructions on how to install it at [**JI Chess-Themed Shogi**](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/).
 
