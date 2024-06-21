@@ -4,7 +4,12 @@ piece.pawn.sente,
       .cg-wrap.orientation-gote piece.pawn.sente,
       .spare-top piece.pawn.sente,
       .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.pawn,
-      .cg-wrap.orientation-sente + #promotion-choice.top piece.pawn {
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.pawn,
+      .v-kyotoshogi piece.pawn.sente,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.pawn.sente,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.pawn.sente,
+      .v-kyotoshogi .hand-bottom piece.pawn.gote,
+      .spare-bottom.v-kyotoshogi piece.pawn {
   background-image: url("")!important;
 }
 
@@ -14,7 +19,12 @@ piece.pawn.gote,
       .pocket-bottom piece.pawn.gote,
       .e-pocket-bottom piece.pawn.gote,
       .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.pawn,
-      .cg-wrap.orientation-gote + #promotion-choice.top  piece.pawn {
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.pawn,
+      .v-kyotoshogi piece.pawn.gote,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.pawn.gote,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.pawn.gote,
+      .v-kyotoshogi .hand-top piece.pawn,
+      .spare-top.v-kyotoshogi piece.paw {
   background-image: url("")!important;
 }
 
@@ -23,7 +33,12 @@ piece.lance.sente,
       .cg-wrap.orientation-gote piece.lance.sente,
       .spare-top piece.lance.sente,
       .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.lance,
-      .cg-wrap.orientation-sente + #promotion-choice.top piece.lance {
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.lance,
+      .v-kyotoshogi piece.lance.sente,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.lance.sente,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.lance.sente,
+      .v-kyotoshogi .hand-bottom piece.lance.gote,
+      .spare-bottom.v-kyotoshogi piece.lance {
   background-image: url("")!important;
 }
 
@@ -34,7 +49,12 @@ piece.lance.gote,
       .e-pocket-bottom piece.lance.gote,
       .spare-bottom piece.lance.gote,
       .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.lance,
-      .cg-wrap.orientation-gote + #promotion-choice.top  piece.lance {
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.lance,
+      .v-kyotoshogi piece.lance.gote,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.lance.gote,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.lance.gote,
+      .v-kyotoshogi .hand-top piece.lance,
+      .spare-top.v-kyotoshogi piece.lance {
   background-image: url("")!important;
 }
 
@@ -43,7 +63,12 @@ piece.knight.sente,
       .cg-wrap.orientation-gote piece.knight.sente,
       .spare-top piece.knight.sente,
       .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.knight,
-      .cg-wrap.orientation-sente + #promotion-choice.top piece.knight {
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.knight,
+      .v-kyotoshogi piece.knight.sente,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.knight.sente,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.knight.sente,
+      .v-kyotoshogi .hand-bottom piece.knight.gote,
+      .spare-bottom.v-kyotoshogi piece.knight {
   background-image: url("")!important;
 }
 
@@ -54,7 +79,12 @@ piece.knight.gote,
       .e-pocket-bottom piece.knight.gote,
       .spare-bottom piece.knight.gote,
       .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.knight,
-      .cg-wrap.orientation-gote + #promotion-choice.top  piece.knight {
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.knight,
+      .v-kyotoshogi piece.knight.gote,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.knight.gote,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.knight.gote,
+      .v-kyotoshogi .hand-top piece.knight,
+      .spare-top.v-kyotoshogi piece.knight {
   background-image: url("")!important;
 }
 
@@ -63,7 +93,12 @@ piece.silver.sente,
       .cg-wrap.orientation-gote piece.silver.sente,
       .spare-top piece.silver.sente,
       .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.silver,
-      .cg-wrap.orientation-sente + #promotion-choice.top piece.silver {
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.silver,
+      .v-kyotoshogi piece.silver.sente,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.silver.sente,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.silver.sente,
+      .v-kyotoshogi .hand-bottom piece.silver.gote,
+      .spare-bottom.v-kyotoshogi piece.silver {
   background-image: url("")!important;
 }
 
@@ -74,7 +109,12 @@ piece.silver.gote,
       .e-pocket-bottom piece.silver.gote,
       .spare-bottom piece.silver.gote,
       .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.silver,
-      .cg-wrap.orientation-gote + #promotion-choice.top  piece.silver {
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.silver,
+      .v-kyotoshogi piece.silver.gote,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.silver.gote,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.silver.gote,
+      .v-kyotoshogi .hand-top piece.silver,
+      .spare-top.v-kyotoshogi piece.silver {
   background-image: url("")!important;
 }
 
@@ -83,7 +123,12 @@ piece.gold.sente,
       .cg-wrap.orientation-gote piece.gold.sente,
       .spare-top piece.gold.sente,
       .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.gold,
-      .cg-wrap.orientation-sente + #promotion-choice.top piece.gold {
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.gold,
+      .v-kyotoshogi piece.gold.sente,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.gold.sente,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.gold.sente,
+      .v-kyotoshogi .hand-bottom piece.gold.gote,
+      .spare-bottom.v-kyotoshogi piece.gold {
   background-image: url("")!important;
 }
 
@@ -94,7 +139,12 @@ piece.gold.gote,
       .e-pocket-bottom piece.gold.gote,
       .spare-bottom piece.gold.gote,
       .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.gold,
-      .cg-wrap.orientation-gote + #promotion-choice.top  piece.gold {
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.gold,
+      .v-kyotoshogi piece.gold.gote,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.gold.gote,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.gold.gote,
+      .v-kyotoshogi .hand-top piece.gold,
+      .spare-top.v-kyotoshogi piece.gold {
   background-image: url("")!important;
 }
 
@@ -103,7 +153,12 @@ piece.bishop.sente,
       .cg-wrap.orientation-gote piece.bishop.sente,
       .spare-top piece.bishop.sente,
       .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.bishop,
-      .cg-wrap.orientation-sente + #promotion-choice.top piece.bishop {
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.bishop,
+      .v-kyotoshogi piece.bishop.sente,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.bishop.sente,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.bishop.sente,
+      .v-kyotoshogi .hand-bottom piece.bishop.gote,
+      .spare-bottom.v-kyotoshogi piece.bishop {
   background-image: url("")!important;
 }
 
@@ -114,7 +169,12 @@ piece.bishop.gote,
       .e-pocket-bottom piece.bishop.gote,
       .spare-bottom piece.bishop.gote,
       .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.bishop,
-      .cg-wrap.orientation-gote + #promotion-choice.top  piece.bishop {
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.bishop,
+      .v-kyotoshogi piece.bishop.gote,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.bishop.gote,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.bishop.gote,
+      .v-kyotoshogi .hand-top piece.bishop,
+      .spare-top.v-kyotoshogi piece.bishop {
   background-image: url("")!important;
 }
 
@@ -123,7 +183,12 @@ piece.rook.sente,
       .cg-wrap.orientation-gote piece.rook.sente,
       .spare-top piece.rook.sente,
       .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.rook,
-      .cg-wrap.orientation-sente + #promotion-choice.top piece.rook {
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.rook,
+      .v-kyotoshogi piece.rook.sente,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.rook.sente,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.rook.sente,
+      .v-kyotoshogi .hand-bottom piece.rook.gote,
+      .spare-bottom.v-kyotoshogi piece.rook {
   background-image: url("")!important;
 }
 
@@ -134,14 +199,24 @@ piece.rook.gote,
       .e-pocket-bottom piece.rook.gote,
       .spare-bottom piece.rook.gote,
       .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.rook,
-      .cg-wrap.orientation-gote + #promotion-choice.top  piece.rook {
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.rook,
+      .v-kyotoshogi piece.rook.gote,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.rook.gote,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.rook.gote,
+      .v-kyotoshogi .hand-top piece.rook,
+      .spare-top.v-kyotoshogi piece.rook {
   background-image: url("")!important;
 }
 
 piece.king.sente,
       .cg-wrap.orientation-sente piece.king.sente,
       .cg-wrap.orientation-gote piece.king.sente,
-      .spare-top piece.king.sente {
+      .spare-top piece.king.sente,
+      .v-kyotoshogi piece.king.sente,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.king.sente,
+      .spare-bottom.v-kyotoshogi piece.king.sente,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.king.sente,
+      .spare-top.v-kyotoshogi piece.king.sente {
   background-image: url("")!important;
 }
 
@@ -149,7 +224,12 @@ piece.king.gote,
       .cg-wrap.orientation-sente piece.king.gote,
       .cg-wrap.orientation-gote piece.king.gote,
       .e-pocket-bottom piece.king.gote,
-      .spare-bottom piece.king.gote {
+      .spare-bottom piece.king.gote,
+      .v-kyotoshogi piece.king.gote,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.king.gote,
+      .spare-top.v-kyotoshogi piece.king.gote,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.king.gote,
+      .spare-bottom.v-kyotoshogi piece.king.gote {
   background-image: url("")!important;
 }
 
@@ -158,7 +238,12 @@ piece.tokin.sente,
       .cg-wrap.orientation-gote piece.tokin.sente,
       .spare-top piece.tokin.sente,
       .cg-wrap.orientation-gote + #promotion-choice.bottom  piece.tokin,
-      .cg-wrap.orientation-sente + #promotion-choice.top piece.tokin {
+      .cg-wrap.orientation-sente + #promotion-choice.top piece.tokin,
+      .v-kyotoshogi piece.tokin.sente,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.tokin.sente,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.tokin.sente,
+      .v-kyotoshogi .hand-bottom piece.tokin.gote,
+      .spare-bottom.v-kyotoshogi piece.tokin {
   background-image: url("")!important;
 }
 
@@ -167,7 +252,12 @@ piece.tokin.gote,
       .cg-wrap.orientation-gote piece.tokin.gote,
       .spare-bottom piece.tokin.gote,
       .cg-wrap.orientation-sente + #promotion-choice.bottom  piece.tokin,
-      .cg-wrap.orientation-gote + #promotion-choice.top  piece.tokin  {
+      .cg-wrap.orientation-gote + #promotion-choice.top  piece.tokin,
+      .v-kyotoshogi piece.tokin.gote,
+      .v-kyotoshogi .sg-wrap.orientation-sente piece.tokin.gote,
+      .v-kyotoshogi .sg-wrap.orientation-gote piece.tokin.gote,
+      .v-kyotoshogi .hand-top piece.tokin,
+      .spare-top.v-kyotoshogi piece.tokin  {
   background-image: url("")!important;
 }
 
