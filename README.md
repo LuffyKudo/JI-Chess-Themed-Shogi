@@ -5,7 +5,7 @@
 - Board and pieces included
 - Works with matches, puzzles, analysis and board editor
 - Board works with all variants
-- Pieces works with all variants except with Chu Shogi
+- Pieces work with all variants except with Chu Shogi
 
 You can read more about JI Chess-Themed Shogi including instructions on how to install it at:
 
