@@ -1,0 +1,287 @@
+@-moz-document domain("lishogi.org") {
+piece.pawn.sente,
+.v-kyotoshogi piece.pawn.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.pawn.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.pawn.sente {
+    background-image: url("")!important;
+}
+
+piece.pawn.gote,
+.v-kyotoshogi piece.pawn.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.pawn.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.pawn.gote {
+    background-image: url("")!important;
+}
+
+piece.lance.sente,
+.v-kyotoshogi piece.lance.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.lance.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.lance.sente {
+    background-image: url("")!important;
+}
+
+piece.lance.gote,
+.v-kyotoshogi piece.lance.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.lance.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.lance.gote  {
+    background-image: url("")!important;
+}
+
+piece.knight.sente,
+.v-kyotoshogi piece.knight.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.knight.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.knight.sente  {
+    background-image: url("")!important;
+}
+
+piece.knight.gote,
+.v-kyotoshogi piece.knight.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.knight.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.knight.gote {
+    background-image: url("")!important;
+}
+
+piece.silver.sente,
+.v-kyotoshogi piece.silver.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.silver.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.silver.sente  {
+    background-image: url("")!important;
+}
+
+piece.silver.gote,
+.v-kyotoshogi piece.silver.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.silver.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.silver.gote  {
+    background-image: url("")!important;
+}
+
+piece.gold.sente,
+.v-kyotoshogi piece.gold.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.gold.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.gold.sente  {
+    background-image: url("")!important;
+}
+
+piece.gold.gote,
+.v-kyotoshogi piece.gold.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.gold.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.gold.gote  {
+    background-image: url("")!important;
+}
+
+
+piece.bishop.sente,
+.v-kyotoshogi piece.bishop.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.bishop.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.bishop.sente  {
+    background-image: url("")!important;
+}
+
+piece.bishop.gote,
+.v-kyotoshogi piece.bishop.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.bishop.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.bishop.gote {
+    background-image: url("")!important;
+}
+
+piece.rook.sente,
+.v-kyotoshogi piece.rook.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.rook.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.rook.sente  {
+    background-image: url("")!important;
+}
+
+piece.rook.gote,
+.v-kyotoshogi piece.rook.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.rook.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.rook.gote  {
+    background-image: url("")!important;
+}
+
+piece.king.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.king.sente,
+.spare-bottom.v-kyotoshogi piece.king.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.king.sente,
+.spare-top.v-kyotoshogi piece.king.sente  {
+v}
+
+piece.king.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.king.gote,
+.spare-top.v-kyotoshogi piece.king.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.king.gote,
+.spare-bottom.v-kyotoshogi piece.king.gote  {
+    background-image: url("")!important;
+}
+
+piece.tokin.sente,
+.v-kyotoshogi piece.tokin.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.tokin.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.tokin.sente {
+    background-image: url("")!important;
+}
+
+piece.tokin.gote,
+.v-kyotoshogi piece.tokin.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.tokin.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.tokin.gote {
+    background-image: url("")!important;
+}
+
+piece.promotedlance.sente {
+    background-image: url("")!important;
+}
+
+piece.promotedlance.gote {
+    background-image: url("")!important;
+}
+
+piece.promotedknight.sente {
+    background-image: url("")!important;
+}
+
+piece.promotedknight.gote {
+    background-image: url("")!important;
+}
+
+piece.promotedsilver.sente {
+    background-image: url("")!important;
+}
+
+piece.promotedsilver.gote {
+    background-image: url("")!important;
+}
+
+piece.horse.sente {
+    background-image: url("")!important;
+}
+
+piece.horse.gote {
+    background-image: url("")!important;
+}
+
+piece.dragon.sente {
+    background-image: url("")!important;
+}
+
+piece.dragon.gote {
+    background-image: url("")!important;
+}
+
+/* board */
+
+.orange sg-board,
+.natural sg-board,
+.wood sg-board,
+.wood1 sg-board,
+.kaya1 sg-board,
+.kaya2 sg-board,
+.oak sg-board,
+.blue sg-board,
+.gray sg-board,
+.painting1 sg-board,
+.painting2 sg-board,
+.kinkaku sg-board,
+.space sg-board,
+.doubutsu sg-board {
+    background-image: url("")!important;
+}
+
+.orange .d-5x5 sg-board,
+.natural .d-5x5 sg-board,
+.wood .d-5x5 sg-board,
+.wood1 .d-5x5 sg-board,
+.kaya1 .d-5x5 sg-board,
+.kaya2 .d-5x5 sg-board,
+.oak .d-5x5 sg-board,
+.blue .d-5x5 sg-board,
+.gray .d-5x5 sg-board,
+.painting1 .d-5x5 sg-board,
+.painting2 .d-5x5 sg-board,
+.kinkaku .d-5x5 sg-board,
+.space .d-5x5 sg-board,
+.doubutsu .d-5x5 sg-board {
+    background-image: url("")!important;
+}
+
+.orange .d-12x12 sg-board,
+.natural .d-12x12 sg-board,
+.wood .d-12x12 sg-board,
+.wood1 .d-12x12 sg-board,
+.kaya1 .d-12x12 sg-board,
+.kaya2 .d-12x12 sg-board,
+.oak .d-12x12 sg-board,
+.blue .d-12x12 sg-board,
+.gray .d-12x12 sg-board,
+.painting1 .d-12x12 sg-board,
+.painting2 .d-12x12 sg-board,
+.kinkaku .d-12x12 sg-board,
+.space .d-12x12 sg-board,
+.doubutsu .d-12x12 sg-board {
+    background-image: url("")!important;
+}
+
+/* grid remover */
+
+.orange sg-squares,
+.natural sg-squares,
+.wood sg-squares,
+.wood1 sg-squares,
+.kaya1 sg-squares,
+.kaya2 sg-squares,
+.oak sg-squares,
+.painting1 sg-squares,
+.painting2 sg-squares,
+.kinkaku sg-squares,
+.space sg-squares,
+.doubutsu sg-squares {
+    border-top: none;
+    border-left: none !important
+}
+
+.orange sg-squares sq,
+.natural sg-squares sq,
+.wood sg-squares sq,
+.wood1 sg-squares sq,
+.kaya1 sg-squares sq,
+.kaya2 sg-squares sq,
+.oak sg-squares sq,
+.painting1 sg-squares sq,
+.painting2 sg-squares sq,
+.kinkaku sg-squares sq,
+.space sg-squares sq,
+.doubutsu sg-squares sq {
+    border-right: none;
+    border-bottom: none !important
+}
+
+/* star points remover */
+
+.orange sg-squares sq::after,
+.natural sg-squares sq::after,
+.wood sg-squares sq::after,
+.wood1 sg-squares sq::after,
+.kaya1 sg-squares sq::after,
+.kaya2 sg-squares sq::after,
+.oak sg-squares sq::after,
+.painting1 sg-squares sq::after,
+.painting2 sg-squares sq::after,
+.kinkaku sg-squares sq::after,
+.space sg-squares sq::after {
+    content: unset !important
+}
+
+/* change blue and gray boards */
+
+.blue sg-board sq:nth-child(odd),
+.gray sg-board sq:nth-child(odd),
+.blue sg-board sq:nth-child(even),
+.gray sg-board sq:nth-child(even),
+.blue .d-9x9 sg-board sq:nth-child(-2n+26),.blue .d-9x9 sg-board sq:nth-child(2n+56),
+.gray .d-9x9 sg-board sq:nth-child(-2n+26),.gray .d-9x9 sg-board sq:nth-child(2n+56),
+.blue .d-12x12 sg-board sq,
+.gray .d-12x12 sg-board sq,
+.blue .d-12x12 sg-board sq:nth-child(-n+12):nth-child(even),.blue .d-12x12 sg-board sq:nth-child(n+12):nth-child(-n+24):nth-child(odd),.blue .d-12x12 sg-board sq:nth-child(n+25):nth-child(-n+36):nth-child(even),.blue .d-12x12 sg-board sq:nth-child(n+37):nth-child(-n+48):nth-child(odd),.blue .d-12x12 sg-board sq:nth-child(n+49):nth-child(-n+60):nth-child(even),.blue .d-12x12 sg-board sq:nth-child(n+61):nth-child(-n+72):nth-child(odd),.blue .d-12x12 sg-board sq:nth-child(n+73):nth-child(-n+84):nth-child(even),.blue .d-12x12 sg-board sq:nth-child(n+85):nth-child(-n+96):nth-child(odd),.blue .d-12x12 sg-board sq:nth-child(n+97):nth-child(-n+108):nth-child(even),.blue .d-12x12 sg-board sq:nth-child(n+109):nth-child(-n+120):nth-child(odd),.blue .d-12x12 sg-board sq:nth-child(n+121):nth-child(-n+132):nth-child(even),.blue .d-12x12 sg-board sq:nth-child(n+133):nth-child(-n+144):nth-child(odd),
+.gray .d-12x12 sg-board sq:nth-child(-n+12):nth-child(even),.gray .d-12x12 sg-board sq:nth-child(n+12):nth-child(-n+24):nth-child(odd),.gray .d-12x12 sg-board sq:nth-child(n+25):nth-child(-n+36):nth-child(even),.gray .d-12x12 sg-board sq:nth-child(n+37):nth-child(-n+48):nth-child(odd),.gray .d-12x12 sg-board sq:nth-child(n+49):nth-child(-n+60):nth-child(even),.gray .d-12x12 sg-board sq:nth-child(n+61):nth-child(-n+72):nth-child(odd),.gray .d-12x12 sg-board sq:nth-child(n+73):nth-child(-n+84):nth-child(even),.gray .d-12x12 sg-board sq:nth-child(n+85):nth-child(-n+96):nth-child(odd),.gray .d-12x12 sg-board sq:nth-child(n+97):nth-child(-n+108):nth-child(even),.gray .d-12x12 sg-board sq:nth-child(n+109):nth-child(-n+120):nth-child(odd),.gray .d-12x12 sg-board sq:nth-child(n+121):nth-child(-n+132):nth-child(even),.gray .d-12x12 sg-board sq:nth-child(n+133):nth-child(-n+144):nth-child(odd) {
+    background: #0000 !important
+}
+}
