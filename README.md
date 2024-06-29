@@ -7,7 +7,9 @@
 - Board works with all variants
 - Pieces works with all variants except with Chu Shogi
 
-You can read more about JI Chess-Themed Shogi including instructions on how to install it at [**JI Chess-Themed Shogi**](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/).
+You can read more about JI Chess-Themed Shogi including instructions on how to install it at:
+
+[![Static Badge](https://img.shields.io/badge/JI-Chess--Themed_Shogi-blue)](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/)
 
 # Screenshots
 | Screenshot | Description |
