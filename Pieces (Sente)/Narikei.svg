@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 45 45"
+   id="svg5"
+   sodipodi:docname="Narikei.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showguides="true"
+     inkscape:zoom="12.2"
+     inkscape:cx="22.5"
+     inkscape:cy="22.5"
+     inkscape:window-width="1292"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5">
+    <sodipodi:guide
+       position="33.891213,4.95"
+       orientation="0,-1"
+       id="guide5"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(0.92268842,0,0,0.92268842,2.1873595,3.3731353)"
+     id="g5">
+    <g
+       id="g6"
+       transform="translate(-7.2552929,-2.5988513)"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         id="path1-7"
+         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.06626;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 27.369246,1.6979303 -1.063745,1.7891163 a 4.1051069,4.1051069 0 0 1 1.064791,-0.1463195 4.1051069,4.1051069 0 0 1 1.060026,0.1403412 z m 3.37874,1.0971355 -1.906397,0.819704 a 4.1051069,4.1051069 0 0 1 1.716769,1.2457417 z m -6.757096,0.00124 0.191337,2.0756394 a 4.1051069,4.1051069 0 0 1 1.727376,-1.2514998 z m 6.821894,2.4150039 a 4.1051069,4.1051069 0 0 1 0.656442,2.0166815 l 1.367321,-1.5593468 z m -6.88548,0.00118 -2.023927,0.4581338 1.376578,1.5687691 a 4.1051069,4.1051069 0 0 1 0.647349,-2.0269029 z m 7.533326,2.4397715 a 4.1051069,4.1051069 0 0 1 -0.64735,2.0269302 l 2.023928,-0.4581613 z m -8.180592,0.00146 -1.376,1.5693203 2.024258,0.4574447 a 4.1051069,4.1051069 0 0 1 -0.648258,-2.026765 z m 7.278319,2.3659918 a 4.1051069,4.1051069 0 0 1 -1.727376,1.251499 l 1.918686,0.824168 z m -6.375193,0.0012 -0.190565,2.075639 1.918409,-0.824856 a 4.1051069,4.1051069 0 0 1 -1.727844,-1.250783 z m 4.251892,1.383687 a 4.1051069,4.1051069 0 0 1 -1.064764,0.146291 4.1051069,4.1051069 0 0 1 -1.063386,-0.145989 l 1.064433,1.788785 z" />
+      <circle
+         style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="path2-4"
+         cx="27.370287"
+         cy="7.4458385"
+         r="4.1051068" />
+    </g>
+    <path
+       d="m 22,10 c 10.5,1 16.5,8 16,29 H 15 c 0,-9 10,-6.5 8,-21"
+       style="display:inline;fill:#000000;stroke:#ff0000;stroke-opacity:1"
+       id="path1" />
+    <path
+       d="m 24,18 c 0.38,2.91 -5.55,7.37 -8,9 -3,2 -2.82,4.34 -5,4 -1.042,-0.94 1.41,-3.04 0,-3 -1,0 0.19,1.23 -1,2 -1,0 -4.003,1 -4,-4 0,-2 6,-12 6,-12 0,0 1.89,-1.9 2,-3.5 -0.73,-0.994 -0.5,-2 -0.5,-3 1,-1 3,2.5 3,2.5 h 2 c 0,0 0.78,-1.992 2.5,-3 1,0 1,3 1,3"
+       style="display:inline;fill:#000000;stroke:#ff0000;stroke-opacity:1"
+       id="path2" />
+    <path
+       d="m 9.5,25.5 a 0.5,0.5 0 1 1 -1,0 0.5,0.5 0 1 1 1,0 z"
+       style="fill:#ff0000;stroke:#ff0000;stroke-opacity:1;fill-opacity:1"
+       id="path3" />
+    <path
+       d="m 15,15.5 a 0.5,1.5 0 1 1 -1,0 0.5,1.5 0 1 1 1,0 z"
+       transform="matrix(0.866,0.5,-0.5,0.866,9.693,-5.173)"
+       style="fill:#ffffff;stroke:#ff0000;stroke-opacity:1"
+       id="path4" />
+  </g>
+</svg>
