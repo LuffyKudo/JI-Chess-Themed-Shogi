@@ -14,7 +14,6 @@ You can read more about JI Chess-Themed Shogi including instructions on how to i
 # Screenshots
 | Screenshot | Description |
 |---|---|
-| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/06/lishogi-screenshot-1.png" alt="JI Chess-Themed Shogi on Lishogi screenshot" width="360"/> | **JI Chess-Themed Shogi on Lishogi** |
 | <img src="https://raw.githubusercontent.com/LuffyKudo/JI-Chess-Themed-Shogi/main/Lishogi%20Screenshot%202%20(with%20Promoted%20Pieces).png" alt="JI Chess-Themed Shogi on Lishogi screenshot promoted pieces" width="360"/> | **JI Chess-Themed Shogi on Lishogi** <br> (with Promoted Pieces) |
 
 # License
