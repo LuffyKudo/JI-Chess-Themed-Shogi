@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name          JI Chess-Themed Shogi
+@version       20240704.07.09
+@namespace     Lishogi
+@description   Play shogi using chess pieces and board on Lishogi.org!
+@author        LuffyKudo
+==/UserStyle== */
+
 @-moz-document domain("lishogi.org") {
 piece.pawn.sente,
 .v-kyotoshogi piece.pawn.sente,
