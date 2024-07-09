@@ -9,7 +9,7 @@
 
 You can read more about JI Chess-Themed Shogi including instructions on how to install it at:
 
-[![Static Badge](https://img.shields.io/badge/JI-Chess--Themed_Shogi-blue)](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/)
+[![Static Badge](https://img.shields.io/badge/🌐_JI-Chess--Themed_Shogi-blue)](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/)
 
 # Screenshots
 | Screenshot | Description |
