@@ -12,7 +12,7 @@ You can read more about JI Chess-Themed Shogi including instructions on how to i
 [![Static Badge](https://img.shields.io/badge/JI-Chess--Themed_Shogi-blue?logo=wordpress)](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/)
 
 # Screenshots
-| Screenshot | Description |
+| Screenshot | Caption |
 |---|---|
 | <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/06/lishogi-screenshot-1.png" alt="JI Chess-Themed Shogi on Lishogi screenshot" width="360"/> | **JI Chess-Themed Shogi on Lishogi** |
 | <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/06/lishogi-screenshot-2.png" alt="JI Chess-Themed Shogi on Lishogi screenshot promoted pieces" width="360"/> | **JI Chess-Themed Shogi on Lishogi** <br> (with Promoted Pieces) |
