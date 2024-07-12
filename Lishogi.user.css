@@ -1,11 +1,13 @@
 /* ==UserStyle==
 @name          JI Chess-Themed Shogi
-@version       20240704.07.09.1
-@homepageURL   https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/
+@version       20240704.07.09
 @namespace     https://github.com/LuffyKudo/JI-Chess-Themed-Shogi
 @description   Play shogi using chess pieces and board on Lishogi.org!
 @author        LuffyKudo (https://luffykudo.wordpress.com)
-@license       CC-BY-SA-4.0
+@homepageURL   https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/
+@suportURL     https://github.com/LuffyKudo/JI-Chess-Themed-Shogi/issues
+@updateURL     https://raw.githubusercontent.com/LuffyKudo/JI-Chess-Themed-Shogi/main/Lishogi.user.css
+@license       CC BY-SA 4.0
 ==/UserStyle== */
 
 @-moz-document domain("lishogi.org") {
