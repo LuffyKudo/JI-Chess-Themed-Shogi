@@ -20,4 +20,4 @@
 
 ## 2021-05-10
 - Created [JI Chess-Themed Shogi](https://luffykudo.wordpress.com/2021/05/10/chess-themed-shogi-westernized-shogi-japanese-chess/).
-- Created and released JI Chess-Themed Shogi userstyle for Lishogi on [Stylish](https://userstyles.org/styles/203197/lishogi-ji-chess-themed-shogi).
+- Created and released JI Chess-Themed Shogi userstyle for Lishogi on [Stylish](https://userstyles.org/styles/203197/lishogi-ji-chess-themed-shogi) (USO).
