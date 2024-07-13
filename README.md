@@ -7,6 +7,15 @@
 - Board works with all variants
 - Pieces work with all variants except with Chu Shogi
 
+## Feature
+- Choose between four Kings Style:
+  - Gyoku-Ou (Sente has the Jewel while Gote has the King)[_default_]
+  - Ou-Gyoku (Sente has the King while Gote has the Jewel)
+  - Double Gyoku (both have Jewels)
+  - Double Ou (both have the Kings)
+
+![JI Chess-Themed Shogi stylus setting LuffyKudo](https://luffykudo.wordpress.com/wp-content/uploads/2024/07/ji-chess-themed-shogi-stylus-settings.png)
+
 ## Installation
 
 For instructions on how to install it, kindly visit
