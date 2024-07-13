@@ -10,7 +10,7 @@
 ![JI Chess-Themed Shogi stylus setting LuffyKudo](https://luffykudo.wordpress.com/wp-content/uploads/2024/07/ji-chess-themed-shogi-stylus-settings.png)
 
 ## 2024-07-04
-- Released [JI Chess-Themed Shogi v20240704.07.09](https://userstyles.world/style/17077/ji-chess-themed-shogi) for Lishogi on UserStyles.world.
+- Released [JI Chess-Themed Shogi v20240704.07.09](https://userstyles.world/style/17077/ji-chess-themed-shogi) for Lishogi on UserStyles.world (USw)
 
 ## 2024-06-20
 - Updated code to work with Lichess' updated codes.
