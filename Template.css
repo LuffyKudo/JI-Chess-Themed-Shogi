@@ -98,22 +98,6 @@ piece.rook.gote,
     background-image: url("")!important;
 }
 
-piece.king.sente,
-.v-kyotoshogi .sg-wrap.orientation-sente piece.king.sente,
-.spare-bottom.v-kyotoshogi piece.king.sente,
-.v-kyotoshogi .sg-wrap.orientation-gote piece.king.sente,
-.spare-top.v-kyotoshogi piece.king.sente  {
-    background-image: url("")!important;
-}
-
-piece.king.gote,
-.v-kyotoshogi .sg-wrap.orientation-sente piece.king.gote,
-.spare-top.v-kyotoshogi piece.king.gote,
-.v-kyotoshogi .sg-wrap.orientation-gote piece.king.gote,
-.spare-bottom.v-kyotoshogi piece.king.gote  {
-    background-image: url("")!important;
-}
-
 piece.tokin.sente,
 .v-kyotoshogi piece.tokin.sente,
 .v-kyotoshogi .sg-wrap.orientation-sente piece.tokin.sente,
@@ -167,6 +151,30 @@ piece.dragon.sente {
 piece.dragon.gote {
     background-image: url("")!important;
 }
+
+piece.king.sente,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.king.sente,
+.spare-bottom.v-kyotoshogi piece.king.sente,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.king.sente,
+.spare-top.v-kyotoshogi piece.king.sente  {
+if kings == "gyoku" or kings == "gyokuou" {
+    background-image: url("")!important;
+}
+if kings == "ou" or kings == "ougyoku" {
+    background-image: url("")!important;
+}}
+
+piece.king.gote,
+.v-kyotoshogi .sg-wrap.orientation-sente piece.king.gote,
+.spare-top.v-kyotoshogi piece.king.gote,
+.v-kyotoshogi .sg-wrap.orientation-gote piece.king.gote,
+.spare-bottom.v-kyotoshogi piece.king.gote  {
+if kings == "ou" or kings == "gyokuou" {
+    background-image: url("")!important;
+}
+if kings == "gyoku" or kings == "ougyoku" {
+    background-image: url("")!important;
+}}
 
 /* boards */
 
