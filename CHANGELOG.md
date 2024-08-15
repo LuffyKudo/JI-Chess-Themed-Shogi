@@ -6,9 +6,10 @@
   - Ou-Gyoku (Sente has the King while Gote has the Jewel)
   - Double Gyoku (both have Jewels)
   - Double Ou (both have the Kings)
-- Discontinued updates and support for the [Stylish](https://userstyles.org/styles/203197/). 
  
-![JI Chess-Themed Shogi stylus setting LuffyKudo](https://luffykudo.wordpress.com/wp-content/uploads/2024/07/ji-chess-themed-shogi-stylus-settings.png)
+  ![JI Chess-Themed Shogi stylus setting LuffyKudo](https://luffykudo.wordpress.com/wp-content/uploads/2024/07/ji-chess-themed-shogi-stylus-settings.png)
+
+- Discontinued updates and support for the [Stylish](https://userstyles.org/styles/203197/) release. 
 
 ## 2024-07-04
 - Released [JI Chess-Themed Shogi v20240704.07.09](https://userstyles.world/style/17077/) for Lishogi on UserStyles.world (USw)
