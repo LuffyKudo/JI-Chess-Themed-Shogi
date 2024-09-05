@@ -39,6 +39,8 @@ I also created other themes or styles for shogi. You can check them at:
 ## Screenshots
 | Screenshot | Caption |
 |---|---|
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/09/chess-themed-shogi-81dojo-screenshot-1.jpg" alt="JI Chess-Themed Shogi (Westernized Internationalized Shogi or Japanese Chess) Screenshot on 81Dojo Jemierry J.I. Maglinte Jumawan LuffyKudo" width="360"/> | **JI Chess-Themed Shogi on 81Dojo** |
+| <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/09/chess-themed-shogi-81dojo-screenshot-2.jpg" alt="JI Chess-Themed Shogi (Westernized Internationalized Shogi or Japanese Chess) Promoted Pieces Screenshot on 81Dojo Jemierry J.I. Maglinte Jumawan LuffyKudo" width="360"/> | **JI Chess-Themed Shogi on 81Dojo** <br> (with Promoted Pieces) |
 | <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/06/lishogi-screenshot-1.png" alt="JI Chess-Themed Shogi on Lishogi screenshot" width="360"/> | **JI Chess-Themed Shogi on Lishogi** |
 | <img src="https://luffykudo.wordpress.com/wp-content/uploads/2024/06/lishogi-screenshot-2.png" alt="JI Chess-Themed Shogi on Lishogi screenshot promoted pieces" width="360"/> | **JI Chess-Themed Shogi on Lishogi** <br> (with Promoted Pieces) |
 
