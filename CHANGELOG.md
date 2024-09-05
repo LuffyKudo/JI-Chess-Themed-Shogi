@@ -2,6 +2,9 @@
 
 ## 2024-09-05
 - Released [JI Chess-Themed Shogi on 81Dojo v1.0.0](https://userstyles.world/style/17982/) on UserStyles.world (USw).
+  - Added an option to select the color of the bottom pieces due to the nature of 81Dojo's coding.
+  
+  ![JI Chess-Themed Shogi stylus setting LuffyKudo](https://luffykudo.wordpress.com/wp-content/uploads/2024/09/settings-81dojo.png) 
 
 ## 2024-07-13 v20240704.07.09.1
 - Added option to select between four Kings Style :
