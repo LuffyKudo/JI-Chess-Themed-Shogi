@@ -1,5 +1,8 @@
 # ♘☗Chess-Themed Shogi Changelog☖♞
 
+## 2024-09-05
+- Released [JI Chess-Themed Shogi on 81Dojo v1.0.0](https://userstyles.world/style/17982/) on UserStyles.world (USw).
+
 ## 2024-07-13 v20240704.07.09.1
 - Added option to select between four Kings Style :
   - Gyoku-Ou (Sente has the Jewel while Gote has the King)[_default_]
